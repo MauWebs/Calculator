@@ -16,13 +16,14 @@
 }
 
 .boton-contenedor:hover {
-  background-color: #44027e;
+  background-color: #005035;
 }
 
 .operador{
-  background-color: #00471b;
+  background-color: #1b1b32;
 }
 
 .operador:hover {
-  background-color: #ff6600;
+  background-color: #005035;
 }
+
